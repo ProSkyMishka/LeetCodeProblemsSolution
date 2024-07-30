@@ -17,3 +17,13 @@ Output: [1,2]
 ### Example 3:
 Input: nums = [3,3], target = 6\
 Output: [0,1]
+
+#### 
+
+## solutionHashTable:
+O(n^2)
+Best try: 17ms (Beats 92.29%), 16.43MB (Beats 31.15%)
+
+## solutionBruteForce:
+O(n)
+Best try: 47ms (Beats 32.79%), 16.17MB (Beats 76.15%)
