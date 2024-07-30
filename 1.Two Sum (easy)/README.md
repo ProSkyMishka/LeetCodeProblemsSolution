@@ -21,9 +21,9 @@ Output: [0,1]
 #### 
 
 ## solutionHashTable:
-O(n^2)
+O(n^2)\
 Best try: 17ms (Beats 92.29%), 16.43MB (Beats 31.15%)
 
 ## solutionBruteForce:
-O(n)
+O(n)\
 Best try: 47ms (Beats 32.79%), 16.17MB (Beats 76.15%)
