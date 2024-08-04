@@ -15,5 +15,5 @@ Explanation: Note that the values of nums are not necessairly unique.
 -5 * 104 <= nums[i] <= 5 * 104
 
 ## solutionMergeSort:
-O(nlog(n))
+O(nlog(n))\
 Best try: 542ms (Beats 48.46%), 22.50MB (Beats 72.15%)
